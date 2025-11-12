@@ -1,1 +1,1 @@
-deneme
+int main() {}
